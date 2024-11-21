@@ -1,4 +1,4 @@
-# FFAUD DETECTION 
+# FRAUD DETECTION 
 
 ### PORTFOLIO OVERVIEW: 
 This portfolio focuses on applying several machine learning techniques to detect whether a payment is fraudulent or not. The main objective of the portfolio is to explore and implement
