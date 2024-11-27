@@ -8,7 +8,7 @@ After evaluating the models, the performance comparison between the three will h
 
 ## File Structure  
 - [**Dataset**](https://github.com/SueTan309/Fraud-Detection/blob/master/fraud_detection.csv): The CSV file encompasses all the raw data, providing comprehensive information about various transactions. This includes details such as transaction IDs, timestamps, amounts, locations, and any other relevant attributes necessary for detecting and analyzing fraudulent activities.
-- [**Dataset**](https://github.com/SueTan309/Fraud-Detection/blob/master/Fraud%20Detection%20Analysis.ipynb): The Jupyter Notebook contains the complete workflow, including all processes such as handling missing data, performing data visualization to uncover insights, preparing the data for analysis, and building as well as evaluating machine learning models.
+- [**Fraud Detection Analysis**](https://github.com/SueTan309/Fraud-Detection/blob/master/Fraud%20Detection%20Analysis.ipynb): The Jupyter Notebook contains the complete workflow, including all processes such as handling missing data, performing data visualization to uncover insights, preparing the data for analysis, and building as well as evaluating machine learning models.
 
 ## CONTACT
 If you have any questions regarding this projects, please feel free to email me at sue.tan309@gmail.com
